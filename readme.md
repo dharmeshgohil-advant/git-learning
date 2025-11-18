@@ -5,5 +5,6 @@ git reset <code id> je mixed type che reset che jema log history mathi to
 jo jay che pan working file maathi nathi jatu ane staged ma pan nathi jatu e to staged pela ni position changed ma jay che tene tya thi remove karva manually remove karva stash unchanged ma thi delete karvyu pade che
 =============This are three types of reset ===========================
 when we dont push our code from local to remote repository.
+=>
 git reflog command usedd for if we reset hard and we required that data then we this command show thad code id and current reset head so we can go that previous code id using either using previous used log command data of log or using git reflog command
-which provide us
+which provide us again we have to use git reset --hard <codeid>

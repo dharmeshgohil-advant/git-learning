@@ -10,3 +10,6 @@ when we dont push our code from local to remote repository.
 =>
 git reflog command usedd for if we reset hard and we required that data then we this command show thad code id and current reset head so we can go that previous code id using either using previous used log command data of log or using git reflog command
 which provide us again we have to use git reset --hard <codeid>
+
+=>git checkout head~1 ==> refer to the previous commit
+when head detached then use git checkout main then head will point to main otherwise it will be detached ,means attached nathi thato jo checkout kariye to attached thay jay simple che

@@ -19,3 +19,4 @@ when we push code to remote repo then find mistake then this revert command used
 git revert <code(commit) id> then visual code edittor show msg and you have to see revert commit msg if you want to change then change else keep as it is and close that tab so revert will performed and new commit id will generated this is all done in locally and previous commit will not deleted but new commited will generated and all deleted commite will changed in new generated commit so change in file show
 means we here not writing history again but it keep history as it is and make change in new commited so we can push in repo and it will show change in repo
 so if someone get your code it also get reverted code
+private history can be reset using reset but public history ko rever karna hota hai so both have different use cases
